@@ -20,20 +20,21 @@
 
 ### Experiencia Laboral
 
-#### Practica Profesional en [Nombre de la Empresa]
-
-- [Fecha de Inicio] - [Fecha de Finalización]
-- [Descripción breve de tus responsabilidades y logros]
+#### Practica Profesional en Global Solutions
+- Septiembre 2023 - Octubre 2023
+- APLICACIÓN PARA RELACIÓN INTERAREAS (RRHH)
+     App para publicar beneficios, novedades y capacitaciones.
+     Control de usuarios: rol admin y rol usuario.
 
 #### Practica Profesional - Desarrollo de la App Control de Estacionamiento
-
-- [Fecha de Inicio] - [Fecha de Finalización]
-- [Descripción breve de tus responsabilidades y logros]
+- Septiembre 2023 - Septiembre 2022
+- App de control de estacionamiento web para el control y venta de tiempo
+- con sistema de ciencia de datos estadisticos.
 
 #### Armado y Reparación de PC - Redes Domésticas
-
-- [Fecha de Inicio] - [Fecha de Finalización]
-- [Descripción breve de tus responsabilidades y logros]
+- Septiembre 2023 - Enero 2007
+- Dueño de negocio propio dedicado a la reparación y armado de pc ademas de instalaciones de
+- redes y software.
 
 ---
 
@@ -62,6 +63,7 @@
 #### Activos
 
 - 2023: Argentina Programa 4.0: Segunda Etapa Python Machine Learning
+- 2023: Curso de Ingles de nivel 3 Mendoza Tec
 
 #### Finalizados
 
