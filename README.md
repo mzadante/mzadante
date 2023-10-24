@@ -1,86 +1,95 @@
-### Hi there 👋  En construccion!!!!
-<!--
-<p align="center">
-  <img src="enlace_a_tu_foto_de_perfil.jpg" alt="Dante Nicolás Martínez" width="150" height="150">
-</p>
--->
-<p align="center">
-  <h1 align="center">Dante Nicolás Martínez</h1>
-  <p align="center">🎓 Técnico Universitario en Programación</p>
-  <p align="center">🏫 Egresado de la Universidad Tecnológica Nacional (UTN) - Regional San Rafael, Mendoza</p>
-</p>
+<div align="center">
+  <h1>👋 Hi there! 👋</h1>
+  <p>🚧 ¡En construcción! 🚧</p>
+</div>
+
+<div align="center">
+  <h1>Dante Nicolás Martínez</h1>
+  <p>🎓 Técnico Universitario en Programación</p>
+  <p>🏫 Egresado de la Universidad Tecnológica Nacional (UTN) - Regional San Rafael, Mendoza</p>
+</div>
 
 ---
 
-### Acerca de Mí
+<div align="center">
+  <h2>Acerca de Mí</h2>
+</div>
 
 ¡Hola! Soy Dante Nicolás Martínez, un apasionado de la tecnología y la programación. Como Técnico Universitario en Programación egresado de la UTN - Regional San Rafael, Mendoza, mi experiencia abarca desde un nivel junior hasta intermedio, dependiendo de la tecnología. Disfruto aprendiendo y aplicando mis conocimientos en proyectos prácticos.
 
 ---
 
-### Experiencia Laboral
+<div align="center">
+  <h2>Experiencia Laboral</h2>
+</div>
 
 #### Practica Profesional en Global Solutions
-- Septiembre 2023 - Octubre 2023
-- APLICACIÓN PARA RELACIÓN INTERAREAS (RRHH)
-     App para publicar beneficios, novedades y capacitaciones.
-     Control de usuarios: rol admin y rol usuario.
+- 📅 Septiembre 2023 - Octubre 2023
+- Desarrollo de la "APLICACIÓN PARA RELACIÓN INTERAREAS (RRHH)"
+- App para publicar beneficios, novedades y capacitaciones.
+- Control de usuarios: rol admin y rol usuario.
 
 #### Practica Profesional - Desarrollo de la App Control de Estacionamiento
-- Septiembre 2023 - Septiembre 2022
-- App de control de estacionamiento web para el control y venta de tiempo
-- con sistema de ciencia de datos estadisticos.
+- 📅 Septiembre 2023 - Septiembre 2022
+- Desarrollo de la App web para el control y venta de tiempo de estacionamiento
+- con sistema de ciencia de datos estadísticos.
 
 #### Armado y Reparación de PC - Redes Domésticas
-- Septiembre 2023 - Enero 2007
-- Dueño de negocio propio dedicado a la reparación y armado de pc ademas de instalaciones de
-- redes y software.
+- 📅 Septiembre 2023 - Enero 2007
+- Dueño de negocio propio dedicado a la reparación y armado de PC, además de instalaciones de redes y software.
 
 ---
 
-### Educación
+<div align="center">
+  <h2>Educación</h2>
+</div>
 
-- 2021-2023: Técnico Universitario en Programación, UTN - Regional San Rafael, Mendoza
-- 2008-2010: Técnico Universitario en Seguridad e Higiene en el Trabajo, Universidad Nacional de Cuyo - San Rafael, Mendoza
-
----
-
-### Habilidades
-
-- **Fundamentos de la programación**
-- **Java**: NetBeans, Spring, Swing
-- **Python**: Ciencia de datos, Librerías, Machine Learning
-- **JavaScript**: Desarrollo de aplicaciones web, React
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB, SQLite
-- **Node.js**
-- **HTML5** y **CSS3**
-- **Control de Versiones**: GitHub
+- 📚 2021-2023: Técnico Universitario en Programación, UTN - Regional San Rafael, Mendoza
+- 📚 2008-2010: Técnico Universitario en Seguridad e Higiene en el Trabajo, Universidad Nacional de Cuyo - San Rafael, Mendoza
 
 ---
 
-### Cursos
+<div align="center">
+  <h2>Habilidades</h2>
+</div>
+
+- 💻 **Fundamentos de la programación**
+- ☕ **Java**: NetBeans, Spring, Swing
+- 🐍 **Python**: Ciencia de datos, Librerías, Machine Learning
+- 🌐 **JavaScript**: Desarrollo de aplicaciones web, React
+- 🗄️ **Bases de Datos**: MySQL, PostgreSQL, MongoDB, SQLite
+- 🚀 **Node.js**
+- 📄 **HTML5** y 🎨 **CSS3**
+- 📦 **Control de Versiones**: GitHub
+
+---
+
+<div align="center">
+  <h2>Cursos</h2>
+</div>
 
 #### Activos
 
-- 2023: Argentina Programa 4.0: Segunda Etapa Python Machine Learning
-- 2023: Curso de Ingles de nivel 3 Mendoza Tec
+- 📅 2023: Argentina Programa 4.0: Segunda Etapa Python Machine Learning
+- 📅 2023: Curso de Inglés de nivel 3 Mendoza Tec
 
 #### Finalizados
 
-- 2023: Argentina Programa 4.0: Primer Etapa #SeProgramar del trayecto formativo INTI en el marco de Argentina Programa
-- 2023: GOOGLE Activate - Creación de App
-- 2023: GOOGLE Activate - Digitaliza paso a paso tu negocio
-- 2022-2021: ORACLE NEXT Education - Formación Front-end y Back-end con metodologías ágiles
-- 2021: Capacitación en Java 500Hs. - Fundación Santísima Trinidad, Programa Mendoza TEC - Gobierno de Mendoza
+- 📅 2023: Argentina Programa 4.0: Primer Etapa #SeProgramar del trayecto formativo INTI en el marco de Argentina Programa
+- 📅 2023: GOOGLE Activate - Creación de App
+- 📅 2023: GOOGLE Activate - Digitaliza paso a paso tu negocio
+- 📅 2022-2021: ORACLE NEXT Education - Formación Front-end y Back-end con metodologías ágiles
+- 📅 2021: Capacitación en Java 500Hs. - Fundación Santísima Trinidad, Programa Mendoza TEC - Gobierno de Mendoza
 
 ---
 
-### Idiomas
+<div align="center">
+  <h2>Idiomas</h2>
+</div>
 
-- Español: Nativo
-- Inglés: Nivel 3 - Traducción / Lectura / Conversación básica (en curso)
+- 🇪🇸 Español: Nativo
+- 🇬🇧 Inglés: Nivel 3 - Traducción / Lectura / Conversación básica (en curso)
 
----
 
 ### Contacto
 
