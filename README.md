@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there! 👋</h1>
-  <p>🚧 ¡En construcción! 🚧</p>
+ 
 </div>
 
 <div align="center">
