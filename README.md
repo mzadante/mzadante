@@ -22,15 +22,15 @@
   <h2>Experiencia Laboral</h2>
 </div>
 
-#### Practica Profesional en Global Solutions
-- 📅 Marzo 2024
-- Tutor de laTecnicatura Universitaria en Programación para la Universidad Técnologica Nacional Regional San Rafael.
+#### Tutor 
+- 📅 Marzo 2024 Tecnicatura Universitaria en Programación UTN FRSR.
+- Tutor de la Tecnicatura Universitaria en Programación para la Universidad Técnologica Nacional Regional San Rafael.
 - Clases de Consulta para los alúmnos de la carrera. Enseñanza de programación en lenguajes Java, Python, JavaScript, HTML, CSS, SQL, entre otros. Se adjunta un link a youtube con clases grabadas.
 
 #### Practica Profesional en Global Solutions
-- 📅 Septiembre 2023 - Octubre 2023
+- 📅 Septiembre 2023 - Noviembre 2023
 - Desarrollo de la "APLICACIÓN PARA RELACIÓN INTERAREAS (RRHH)"
-- App para publicar beneficios, novedades y capacitaciones.
+- App para publicar beneficios, novedades, políticas y capacitaciones.
 - Control de usuarios: rol admin y rol usuario.
 
 #### Practica Profesional - Desarrollo de la App Control de Estacionamiento
