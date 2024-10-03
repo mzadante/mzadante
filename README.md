@@ -22,7 +22,7 @@
   <h2>Experiencia Laboral</h2>
 </div>
 
-#### Tutor 
+#### Tutor UTN
 - 📅 Marzo 2024 Tecnicatura Universitaria en Programación UTN FRSR.
 - Tutor de la Tecnicatura Universitaria en Programación para la Universidad Técnologica Nacional Regional San Rafael.
 - Clases de Consulta para los alúmnos de la carrera. Enseñanza de programación en lenguajes Java, Python, JavaScript, HTML, CSS, SQL, entre otros. Se adjunta un link a youtube con clases grabadas.
